@@ -1,0 +1,40 @@
+.mainInfo {
+	background-color: whitesmoke;
+	padding: 40px;
+	border-radius: 6px;
+	box-sizing: border-box;
+	/* border: 2px solid red; */
+}
+
+.city {
+	font-size: 28px;
+	text-align: center;
+	font-weight: bolder;
+	/* border: 2px solid green; */
+}
+
+.country {
+	font-size: 20px;
+	text-align: center;
+}
+
+.row {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	/* border: 2px solid red; */
+	margin-bottom: 1.5rem;
+}
+
+.condition {
+	font-size: 16px;
+}
+
+.current {
+	font-size: 38px;
+	font-weight: bold;
+}
+
+.containerTemp {
+	/* margin-top: 2rem; */
+}

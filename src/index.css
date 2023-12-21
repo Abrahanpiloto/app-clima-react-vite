@@ -1,0 +1,7 @@
+body {
+	background-image: url("fondo.jpg");
+	font-size: 22px;
+	/* font-weight: 600; */
+	font-family: "Courier New", Courier, monospace;
+	color: black;
+}
